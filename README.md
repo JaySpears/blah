@@ -1,3 +1,5 @@
+#### NOTE: This is written is es5 due to not writing it in node. Or using babel.
+
 #### Instructions.
 1. Clone down this repo.<br>
 `git clone git@github.com:JaySpears/blah.git`
